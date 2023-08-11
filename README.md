@@ -1,4 +1,4 @@
-https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 # 💫 About Me:
 🔭 I’m currently working on a UI/UX Design<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning Figma<br>💬 Ask me about Graphic Design<br>⚡ Fun fact I'm Funny<br>👯 Waiting to collaborate and make new Friends
