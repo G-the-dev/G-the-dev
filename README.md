@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g-the-dev&show_icons=true&locale=en" alt="g-the-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g-the-dev&" alt="g-the-dev" /></p>
+
+[![](https://visitcount.itsvg.in/api?id=G-the-dev&icon=2&color=0)](https://visitcount.itsvg.in)
