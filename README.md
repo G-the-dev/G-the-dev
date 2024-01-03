@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-the-dev&label=Profile%20views&color=0e75b6&style=flat" alt="g-the-dev" /> </p>
 
-- 🔭 I’m currently working on **Figma/FDora/Framer**
+- 🔭 I’m currently working on **Figma/Dora/Framer**
 
-- 🌱 I’m currently learning **UI/UX Design**
+- 🌱 I’m currently learning **Javascript**
 
 - 🤝 I’m looking for help with **Data Structure Algorithms**
 
-- 💬 Ask me about **Web dev , Python , SQL , Graphic design**
+- 💬 Ask me about **Web dev , Python , SQL , UI/UX design**
 
 - ⚡ Fun fact **I am Funny**
 
